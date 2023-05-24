@@ -1,4 +1,4 @@
-# syntax = edrevo/dockerfile-plus
+
 
 ARG ADORE_CLI_TAG=latest
 ARG REQUIREMENTS_FILE
